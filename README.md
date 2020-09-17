@@ -4,6 +4,8 @@ I created a simple calendar application that allows the user to save events for 
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
+Here is a link to my deployed application: [Work Day Scheduler](https://pettisnick.github.io/HW-5-Work-Day-Scheduler/)
+
 ## User Story
 
 ```
