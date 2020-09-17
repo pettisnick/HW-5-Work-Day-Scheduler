@@ -34,6 +34,8 @@ The following images animation demonstrates the application functionality:
 
 ![Work Day Scheduler](https://user-images.githubusercontent.com/65740432/93518575-fc804a80-f8fa-11ea-8ec3-8795fc7e3d2f.png)
 
+![image](https://user-images.githubusercontent.com/65740432/93518878-74e70b80-f8fb-11ea-853c-aaf387cd037b.png)
+
 ## Review
 
 You are required to submit the following for review:
