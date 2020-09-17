@@ -30,8 +30,9 @@ WHEN I refresh the page
 THEN the saved events still persist
 ```
 
-The following animation demonstrates the application functionality:
+The following images animation demonstrates the application functionality:
 
+![Work Day Scheduler](https://user-images.githubusercontent.com/65740432/93518575-fc804a80-f8fa-11ea-8ec3-8795fc7e3d2f.png)
 
 ## Review
 
