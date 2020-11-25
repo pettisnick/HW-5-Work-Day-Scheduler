@@ -1,4 +1,4 @@
-# HW-5-Work-Day-Scheduler
+# Work-Day-Scheduler
 
 I created a simple calendar application that allows the user to save events for any hour between 9am and 5pm. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
